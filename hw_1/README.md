@@ -1,5 +1,5 @@
 ## Description:
-Producer place an input string to RabbitMQ queue. After that consumer receives this string and puts it to MongoDB.
+Producer places an input string to RabbitMQ queue. After that consumer receives this string and puts it to MongoDB.
 
 ## Launch:
 
